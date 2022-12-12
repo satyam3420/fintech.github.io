@@ -9,7 +9,7 @@ const E_Wallet = () => {
       alt: "imageout",
     },
     {
-      //image: "../Theme/E_Wallet/banner-moc-1-13 2.png",
+      image: "../Theme/E_Wallet/banner-moc-1-13 2.png",
       alt: "imagein",
     },
   ];
