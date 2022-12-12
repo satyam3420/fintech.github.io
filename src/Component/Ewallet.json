@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "num": "1",
+    "image": "../Theme/E_Wallet/Ellipse 10.png",
+    "title": "One app for all things money.",
+    "content": "Pay bills, recharge, send money, buy gold, invest and shop at your favourite stores."
+  },
+
+  {
+    "id":2,
+    "num": "2",
+    "image": "../Theme/E_Wallet/Ellipse 10 (1).png",
+    "title": "Pay whenever you like, wherever you like.",
+    "content": "Pay bills, recharge, send money, buy gold, invest and shop at your favourite stores."
+  },
+
+  {
+    "id":3,
+    "num": "3",
+    "image": "../Theme/E_Wallet/Ellipse 10 (2).png",
+    "title": "Find all your favourite apps on PhonePe Switch. ",
+    "content": " Book flights, order food or buy groceries. Use all your favourite apps without downloading them."
+  }
+
+
+]

@@ -1,0 +1,111 @@
+.download_main {
+    position: relative;
+    padding: 0 0 100px;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../Theme/Vector\ 1.png);
+    background-size: cover;
+}
+
+.download_main h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.download_left-img {
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+.goole_play {
+    background: transparent;
+   
+}
+.goole_play0 {
+    background: transparent;
+    position: absolute;
+    right: 150px;
+}
+.goole_play2 {
+    position: relative;
+    height: 400px;
+    bottom: 100px;  
+}
+
+.download_right-img {
+    position: relative;
+}
+
+.phone0 {
+    position: absolute;
+    height: 500px;
+    top: -220px;
+    left: 40px;
+}
+.phone1 {
+    position: absolute;
+    height: 500px;
+    top: -20px;
+    left: -40px;
+}
+
+@media(min-width:280px) and (max-width:960px) {
+
+    .download_main {
+        position: relative;
+        height: 100vh;
+        width: 100vw;
+      
+    }
+
+    .download_left-img {
+        position: relative;
+        top: 50px;
+        left: 50px;
+        bottom: 300px;
+    }
+    .download_main h1 {
+        color: white;
+        font-weight: 700;
+        font-size: 30px;
+       
+    }
+    .goole_play0 {
+        background: transparent;
+        position: absolute;
+        right: 100px;
+        width: 120px;
+    }
+
+    .goole_play1 {
+        position: relative;
+        width: 120px;
+       
+    }
+    .goole_play2 {
+        position: relative;
+        height: 200px;
+        bottom: 100px; 
+        margin-top: 50px; 
+    }
+
+    .phone0 {
+        position: absolute;
+        height: 350px;
+        margin-top: 30px;
+    
+    }
+    .phone1 {
+        position: absolute;
+        height: 250px;
+        left: 50px;
+        margin-top: 30px;
+    }
+
+    .round {
+        position: relative;
+        height: 300px;
+        left: 100px;
+    }
+}

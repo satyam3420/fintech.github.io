@@ -1,0 +1,47 @@
+.navbar-containe{
+    width: 100%;
+    position: relative;
+     
+  }
+  
+  .navbar-content{
+      position: absolute;
+      right: 100px;
+      font-weight: 400;
+      padding: 0 5px;
+      color: white;
+    
+  }
+  .nav{
+    font-weight: 600;
+    padding: 0 15px;
+    color: white;
+    text-decoration: none;
+
+  }
+  .nav:hover{
+       border-bottom: 3px solid rgb(0, 195, 221);
+       transition: .1s;
+       color: rgb(23, 228, 255);
+       text-decoration: none;
+  }
+  
+  .icon{
+      padding: 0 10px;
+  
+  }
+  
+  .icon-container{
+    position: absolute;
+    right: 100px;
+    margin-right: 10px;
+    cursor: pointer;
+       
+  }
+  
+  
+  @media screen and (max-width:1200px){
+    .icon-container{
+      display: none;
+    }
+  }

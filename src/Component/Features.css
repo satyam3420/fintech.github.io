@@ -1,0 +1,50 @@
+.Features {
+    height: 100%;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0 0 100px;
+}
+
+.Features h2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.Features p {
+    text-align: center;
+    color: rgb(240, 1, 1);
+    font-weight: 600;
+    padding-bottom: 0;
+}
+
+.QR {
+    position: relative;
+    cursor: pointer;
+}
+
+.Group48 {
+    width: 220px;
+}
+
+.scanner {
+    position: absolute;
+    top: 45px;
+    right: 70px;
+    height: 80px;
+    width: 80px;
+}
+
+.Group49 {
+    width: 220px;
+}
+
+@media(min-width:280px) and (max-width:960px) {
+
+    .Group48 {
+        width: 160px;
+      display: flexbox;
+       flex-direction: column;
+    }
+
+}
